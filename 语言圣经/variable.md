@@ -3,6 +3,7 @@ layout: default
 title: variable
 permalink: /rust/语言圣经/basis/variable
 parent: rust-basis
+grand_parent: rust-course
 has_toc: true
 ---
 <details open markdown="block">
