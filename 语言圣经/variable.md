@@ -1,0 +1,15 @@
+---
+layout: default
+title: variable
+permalink: /rust/语言圣经/basis/variable
+parent: rust-basis
+has_toc: true
+---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
